@@ -544,6 +544,54 @@
 "seller_type": "PUBLISHER",
 "name": "Pursuit Up",
 "domain": "pursuituptv.com"
+},
+{
+  "seller_id": "3498",
+  "seller_type": "PUBLISHER",
+  "name": "Fundozer",
+  "domain": "fundozer.com"
+},
+{
+  "seller_id": "3497",
+  "seller_type": "PUBLISHER",
+  "name": "VideoElephant",
+  "domain": "videoelephant.tv"
+},
+{
+  "seller_id": "3496",
+  "seller_type": "PUBLISHER",
+  "name": "Fubo",
+  "domain": "fubo.tv"
+},
+{
+  "seller_id": "3495",
+  "seller_type": "PUBLISHER",
+  "name": "MaticWay",
+  "domain": "maticway.com"
+},
+{
+  "seller_id": "3494",
+  "seller_type": "PUBLISHER",
+  "name": "FutureToday",
+  "domain": "futuretodayinc.com"
+},
+{
+  "seller_id": "3493",
+  "seller_type": "PUBLISHER",
+  "name": "NewsON",
+  "domain": "newson.us"
+},
+{
+  "seller_id": "3492",
+  "seller_type": "PUBLISHER",
+  "name": "Zeam Media",
+  "domain": "zeammedia.com"
+},
+{
+  "seller_id": "3491",
+  "seller_type": "PUBLISHER",
+  "name": "Ruckus Factory",
+  "domain": "ruckusfactory.com"
 }
 ]
 }
