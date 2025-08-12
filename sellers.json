@@ -598,6 +598,12 @@
   "seller_type": "INTERMEDIARY",
   "name": "Vuukle DMCC",
   "domain": "vuukle.com"
+},
+{
+  "seller_id": "3488",
+  "seller_type": "INTERMEDIARY",
+  "name": "tal DMCC",
+  "domain": "tal.com"
 }
 ]
 }
