@@ -594,10 +594,10 @@
   "domain": "ruckusfactory.com"
 },
 {
-"seller_id": "3500",
-"seller_type": "INTERMEDIARY",
-"name": "Vuukle DMCC",
-"domain": "[vuukle.com](http://vuukle.com/)"
+  "seller_id": "3500",
+  "seller_type": "INTERMEDIARY",
+  "name": "Vuukle DMCC",
+  "domain": "vuukle.com"
 }
 ]
 }
