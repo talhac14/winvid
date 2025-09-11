@@ -594,6 +594,23 @@
   "domain": "ruckusfactory.com"
 },
 {
+  "seller_id": "3501",
+  "seller_type": "PUBLISHER",
+  "name": "Pluto",
+  "domain": "pluto.tv"
+},
+{
+  "seller_id": "3502",
+  "seller_type": "PUBLISHER",
+  "name": "Scripps Media Inc",
+  "domain": "scripps.com"
+},
+{  "seller_id": "3503",
+  "seller_type": "PUBLISHER",
+  "name": "Newsy",
+  "domain": "newsy.com"
+},
+{
   "seller_id": "3500",
   "seller_type": "INTERMEDIARY",
   "name": "Vuukle DMCC",
