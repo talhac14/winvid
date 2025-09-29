@@ -275,7 +275,7 @@
 },
 {
 "domain": "plex.tv",
-"seller_id": "33169",
+"seller_id": "33144",
 "name": "Plex, Inc.",
 "seller_type": "PUBLISHER"
 },
@@ -609,6 +609,19 @@
   "seller_type": "PUBLISHER",
   "name": "Newsy",
   "domain": "newsy.com"
+},
+{
+  "seller_id": "3555",
+  "seller_type": "PUBLISHER",
+  "name": "Tripleb.tv",
+  "domain": "tripleb.tv"
+},
+{
+  "seller_id": "3556",
+  "seller_type": "PUBLISHER",
+  "name": "Streamstak",
+  "domain": "streamstak.com"
+}
 },
 {
   "seller_id": "3500",
