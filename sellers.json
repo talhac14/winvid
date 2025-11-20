@@ -621,13 +621,37 @@
   "seller_type": "PUBLISHER",
   "name": "Streamstak",
   "domain": "streamstak.com"
-}
 },
 {
   "seller_id": "3500",
   "seller_type": "INTERMEDIARY",
   "name": "Vuukle DMCC",
   "domain": "vuukle.com"
+},
+{
+  {
+  "seller_id": "36001",
+  "seller_type": "PUBLISHER",
+  "name": "BidMachine",
+  "domain": "bidmachine.io"
+},
+{
+  "seller_id": "36002",
+  "seller_type": "PUBLISHER",
+  "name": "Algorix",
+  "domain": "algorix.co"
+},
+{
+  "seller_id": "36003",
+  "seller_type": "PUBLISHER",
+  "name": "Ignite Media",
+  "domain": "ignitemediagroup.co"
+},
+{
+  "seller_id": "36004",
+  "seller_type": "PUBLISHER",
+  "name": "Digital Turbine",
+  "domain": "digitalturbine.com"
 }
 ]
 }
