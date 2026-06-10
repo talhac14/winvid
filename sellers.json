@@ -119,9 +119,9 @@
     },
     {
       "seller_id": "33185",
-      "seller_type": "INTERMEDIARY",
-      "name": "Vungle",
-      "domain": "vungle.com"
+      "seller_type": "PUBLISHER",
+      "name": "rollicgames.com",
+      "domain": "rollicgames.com"
     },
     {
       "seller_id": "33163",
@@ -192,8 +192,8 @@
     {
       "seller_id": "22294",
       "seller_type": "INTERMEDIARY",
-      "name": "Appush Technologies LTD - D",
-      "domain": "appush.com"
+      "name": "smartbid.ai",
+      "domain": "smartbid.ai"
     },
     {
       "domain": "gearcalture.com",
@@ -620,8 +620,8 @@
     {
       "seller_id": "3500",
       "seller_type": "INTERMEDIARY",
-      "name": "Vuukle DMCC",
-      "domain": "vuukle.com"
+      "name": "vungle.com",
+      "domain": "vungle.com"
     },
     {
       "seller_id": "36001",
@@ -652,6 +652,12 @@
       "seller_type": "PUBLISHER",
       "domain": "raymobile.games",
       "name": "Plainsight games LTD"
+    },
+    {
+      "seller_id": "747",
+      "seller_type": "PUBLISHER",
+      "name": "feeberse.com",
+      "domain": "feeberse.com"
     }
   ]
 }
