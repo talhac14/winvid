@@ -658,6 +658,24 @@
       "seller_type": "PUBLISHER",
       "name": "feeberse.com",
       "domain": "feeberse.com"
+    },
+    {
+      "seller_id": "400603",
+      "seller_type": "PUBLISHER",
+      "name": "Wobble Monkey",
+      "domain": "wobblemonkey.com"
+    },
+    {
+      "seller_id": "400607",
+      "seller_type": "PUBLISHER",
+      "name": "PlaySimple Games",
+      "domain": "playsimple.in"
+    },
+    {
+      "seller_id": "499005",
+      "seller_type": "PUBLISHER",
+      "name": "Tripledot Studios",
+      "domain": "tripledotstudios.com"
     }
   ]
 }
