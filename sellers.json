@@ -34,7 +34,7 @@
       "domain": "gram.gs"
     },
     {
-      "seller_id": "33147",
+      "seller_id": "400607",
       "seller_type": "PUBLISHER",
       "name": "PlaySimple Games",
       "domain": "playsimple.in"
@@ -82,7 +82,7 @@
       "domain": "brainiumstudios.com"
     },
     {
-      "seller_id": "33156",
+      "seller_id": "499005",
       "seller_type": "PUBLISHER",
       "name": "Tripledot Studios",
       "domain": "tripledotstudios.com"
@@ -658,6 +658,66 @@
       "seller_type": "PUBLISHER",
       "name": "feeberse.com",
       "domain": "feeberse.com"
+    },
+    {
+      "seller_id": "400603",
+      "seller_type": "PUBLISHER",
+      "name": "wobblemonkey.com",
+      "domain": "wobblemonkey.com"
+    },
+    {
+      "seller_id": "400604",
+      "seller_type": "PUBLISHER",
+      "name": "vpnfree",
+      "domain": "vpnfree.app"
+    },
+    {
+      "seller_id": "418102",
+      "seller_type": "PUBLISHER",
+      "name": "Funcellgames",
+      "domain": "funcellgames.com"
+    },
+    {
+      "seller_id": "421851",
+      "seller_type": "PUBLISHER",
+      "name": "waaminio.vastlabs.co.tz",
+      "domain": "waaminio.vastlabs.co.tz"
+    },
+    {
+      "seller_id": "421918",
+      "seller_type": "PUBLISHER",
+      "name": "xujingkj.com",
+      "domain": "xujingkj.com"
+    },
+    {
+      "seller_id": "421992",
+      "seller_type": "PUBLISHER",
+      "name": "ma8d24cf9.app-ads-txt.com",
+      "domain": "ma8d24cf9.app-ads-txt.com"
+    },
+    {
+      "seller_id": "421998",
+      "seller_type": "PUBLISHER",
+      "name": "smart-book.net",
+      "domain": "smart-book.net"
+    },
+    {
+      "seller_id": "422197",
+      "seller_type": "PUBLISHER",
+      "name": "elitenaga.com",
+      "domain": "elitenaga.com"
+    },
+    {
+      "seller_id": "422298",
+      "seller_type": "PUBLISHER",
+      "name": "robrushgames.com",
+      "domain": "robrushgames.com"
+    },
+    {
+      "seller_id": "422679",
+      "seller_type": "PUBLISHER",
+      "name": "connecterra.kr",
+      "domain": "connecterra.kr"
     }
   ]
 }
