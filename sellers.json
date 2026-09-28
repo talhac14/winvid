@@ -718,6 +718,108 @@
       "seller_type": "PUBLISHER",
       "name": "connecterra.kr",
       "domain": "connecterra.kr"
+    },
+    {
+      "seller_id": "425958",
+      "seller_type": "PUBLISHER",
+      "name": "gameenix.com",
+      "domain": "gameenix.com"
+    },
+    {
+      "seller_id": "424493",
+      "seller_type": "PUBLISHER",
+      "name": "happygames.asia",
+      "domain": "happygames.asia"
+    },
+    {
+      "seller_id": "423954",
+      "seller_type": "PUBLISHER",
+      "name": "summit-games.com",
+      "domain": "summit-games.com"
+    },
+    {
+      "seller_id": "424185",
+      "seller_type": "PUBLISHER",
+      "name": "gostepsdaily.app",
+      "domain": "gostepsdaily.app"
+    },
+    {
+      "seller_id": "424612",
+      "seller_type": "PUBLISHER",
+      "name": "iglugo.com",
+      "domain": "iglugo.com"
+    },
+    {
+      "seller_id": "424176",
+      "seller_type": "PUBLISHER",
+      "name": "awem.com",
+      "domain": "awem.com"
+    },
+    {
+      "seller_id": "425849",
+      "seller_type": "PUBLISHER",
+      "name": "foozawebtech.com",
+      "domain": "foozawebtech.com"
+    },
+    {
+      "seller_id": "423308",
+      "seller_type": "PUBLISHER",
+      "name": "b8-play-fc04f.web.app",
+      "domain": "b8-play-fc04f.web.app"
+    },
+    {
+      "seller_id": "423952",
+      "seller_type": "PUBLISHER",
+      "name": "nakogames.com",
+      "domain": "nakogames.com"
+    },
+    {
+      "seller_id": "426142",
+      "seller_type": "PUBLISHER",
+      "name": "greatboystudio.com",
+      "domain": "greatboystudio.com"
+    },
+    {
+      "seller_id": "424308",
+      "seller_type": "PUBLISHER",
+      "name": "avdev.site",
+      "domain": "avdev.site"
+    },
+    {
+      "seller_id": "421573",
+      "seller_type": "PUBLISHER",
+      "name": "signaling.app",
+      "domain": "signaling.app"
+    },
+    {
+      "seller_id": "426346",
+      "seller_type": "PUBLISHER",
+      "name": "iferalgames.com",
+      "domain": "iferalgames.com"
+    },
+    {
+      "seller_id": "422380",
+      "seller_type": "PUBLISHER",
+      "name": "hey.day",
+      "domain": "hey.day"
+    },
+    {
+      "seller_id": "424222",
+      "seller_type": "PUBLISHER",
+      "name": "m48ad4e11.app-ads-txt.com",
+      "domain": "m48ad4e11.app-ads-txt.com"
+    },
+    {
+      "seller_id": "425828",
+      "seller_type": "PUBLISHER",
+      "name": "fluxiplay.com",
+      "domain": "fluxiplay.com"
+    },
+    {
+      "seller_id": "426828",
+      "seller_type": "PUBLISHER",
+      "name": "magnitudenetwork.tech",
+      "domain": "magnitudenetwork.tech"
     }
   ]
 }
