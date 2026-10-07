@@ -820,6 +820,24 @@
       "seller_type": "PUBLISHER",
       "name": "magnitudenetwork.tech",
       "domain": "magnitudenetwork.tech"
+    },
+    {
+      "seller_id": "426829",
+      "seller_type": "BOTH",
+      "name": "Playline Entertainment",
+      "domain": "playlineentertainment.com"
+    },
+    {
+      "seller_id": "426830",
+      "seller_type": "BOTH",
+      "name": "PPINGG",
+      "domain": "ppingg.com"
+    },
+    {
+      "seller_id": "426831",
+      "seller_type": "BOTH",
+      "name": "PWR Games",
+      "domain": "pwr-games.com"
     }
   ]
 }
