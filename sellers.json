@@ -838,6 +838,12 @@
       "seller_type": "BOTH",
       "name": "PWR Games",
       "domain": "pwr-games.com"
+    },
+    {
+      "seller_id": "5431",
+      "seller_type": "PUBLISHER",
+      "name": "Tastemade, Inc.",
+      "domain": "tastemade.com"
     }
   ]
 }
