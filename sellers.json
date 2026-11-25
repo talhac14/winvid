@@ -468,6 +468,18 @@
       "domain": "futuretodayinc.com"
     },
     {
+      "seller_id": "1496",
+      "seller_type": "PUBLISHER",
+      "name": "Future Today Inc.",
+      "domain": "futuretodayinc.com"
+    },
+    {
+      "seller_id": "1927",
+      "seller_type": "PUBLISHER",
+      "name": "Cineverse Corp.",
+      "domain": "cineverse.com"
+    },
+    {
       "seller_id": "33219",
       "seller_type": "PUBLISHER",
       "name": "Castify",
@@ -540,12 +552,6 @@
       "domain": "pursuituptv.com"
     },
     {
-      "seller_id": "3498",
-      "seller_type": "PUBLISHER",
-      "name": "Fundozer",
-      "domain": "fundozer.com"
-    },
-    {
       "seller_id": "3497",
       "seller_type": "PUBLISHER",
       "name": "VideoElephant",
@@ -562,12 +568,6 @@
       "seller_type": "PUBLISHER",
       "name": "MaticWay",
       "domain": "maticway.com"
-    },
-    {
-      "seller_id": "3494",
-      "seller_type": "PUBLISHER",
-      "name": "FutureToday",
-      "domain": "futuretodayinc.com"
     },
     {
       "seller_id": "3493",
